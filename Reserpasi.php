@@ -1,0 +1,413 @@
+
+<html>
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>AFW Hotel Rooms</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<meta name="author" content="" />
+
+  <!-- Facebook and Twitter integration -->
+	<meta property="og:title" content=""/>
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content=""/>
+	<meta property="og:site_name" content=""/>
+	<meta property="og:description" content=""/>
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:image" content="" />
+	<meta name="twitter:url" content="" />
+	<meta name="twitter:card" content="" />
+
+	<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700" rel="stylesheet">
+	
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="css/icomoon.css">
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="css/bootstrap.css">
+
+	<!-- Magnific Popup -->
+	<link rel="stylesheet" href="css/magnific-popup.css">
+
+	<!-- Flexslider  -->
+	<link rel="stylesheet" href="css/flexslider.css">
+
+	<!-- Owl Carousel -->
+	<link rel="stylesheet" href="css/owl.carousel.min.css">
+	<link rel="stylesheet" href="css/owl.theme.default.min.css">
+	
+	<!-- Date Picker -->
+	<link rel="stylesheet" href="css/bootstrap-datepicker.css">
+	<!-- Flaticons  -->
+	<link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+
+	<!-- Theme style  -->
+	<link rel="stylesheet" href="css/style.css">
+
+	<!-- Modernizr JS -->
+	<script src="js/modernizr-2.6.2.min.js"></script>
+	<!-- FOR IE9 below -->
+	<!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+
+	</head>
+	<body>
+		
+	<div class="colorlib-loader"></div>
+
+	<div id="page">
+		<nav class="colorlib-nav" role="navigation">
+			<div class="top">
+				<div class="container">
+					<div class="row">
+					</div>
+				</div>
+			</div>
+			<div class="top-menu">
+				<div class="container">
+					<div class="row">
+						<div class="col-xs-2">
+							<div id="colorlib-logo"><a href="index.html">AFW hotel</a></div>
+						</div>
+            	 <div class="col-xs-10 text-right menu-1">
+            	 
+              <ul>
+                <li><a href="halamanhotel.php">Back</a></li>
+                
+              </ul>
+            </div>
+					</div>
+				</div>
+			</div>
+		</nav>
+		<aside id="colorlib-hero">
+			<div class="flexslider">
+				<ul class="slides">
+			   	<li style="background-image: url(images/img_bg_5.jpg);">
+			   		<div class="overlay"></div>
+			   		<div class="container-fluid">
+			   			<div class="row">
+				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
+				   				<div class="slider-text-inner slider-text-inner2 text-center">
+				   					<h2> Choose Of The Best </h2>
+				   					<h1> Room &amp; Convenience </h1>
+				   				</div>
+				   			</div>
+				   		</div>
+			   		</div>
+			   	</li>
+			  	</ul>
+		  	</div>
+		</aside>
+
+		<div id="colorlib-rooms" class="colorlib-light-grey">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4 room-wrap animate-box">
+						<a href="images/room-1.jpg" class="room image-popup-link" style="background-image: url(images/room-1.jpg);"></a>
+						<div class="desc text-center">
+							<span class="rate-star"><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i>
+							<i class="icon-star-full"></i><i class="icon-star-full"></i></span>
+							<h3><a href="rooms-suites.html">Single Room</a></h3>
+							<p class="price">
+								<span class="currency">$</span>
+								<span class="price-room">149</span>
+								<span class="per">/ per night</span>
+							</p>
+							<ul>
+								<li><i class="icon-check"></i> Only 10 rooms are available</li>
+								<li><i class="icon-check"></i> Breakfast included</li>
+								<li><i class="icon-check"></i> Price does not include VAT &amp; services fee</li>
+							</ul>
+						</div>
+					</div>
+
+					<div class="col-md-4 room-wrap animate-box">
+						<a href="images/room-2.jpg" class="room image-popup-link" style="background-image: url(images/room-2.jpg);"></a>
+						<div class="desc text-center">
+							<span class="rate-star"><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full"></i></span>
+							<h3><a href="Reserpasi.php">Double Room</a></h3>
+							<p class="price">
+								<span class="currency">$</span>
+								<span class="price-room">199</span>
+								<span class="per">/ per night</span>
+							</p>
+							<ul>
+								<li><i class="icon-check"></i> Perfect for traveling couples</li>
+								<li><i class="icon-check"></i> Breakfast included</li>
+								<li><i class="icon-check"></i> Price does not include VAT &amp; services fee</li>
+							</ul>
+							
+						</div>
+					</div>
+					<div class="col-md-4 room-wrap animate-box">
+						<a href="images/room-3.jpg" class="room image-popup-link" style="background-image: url(images/room-3.jpg);"></a>
+						<div class="desc text-center">
+							<span class="rate-star"><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full"></i></span>
+							<h3><a href="Reserpasi.php">Family Room</a></h3>
+							<p class="price">
+								<span class="currency">$</span>
+								<span class="price-room">249</span>
+								<span class="per">/ per night</span>
+							</p>
+							<ul>
+								<li><i class="icon-check"></i> Two double beds</li>
+								<li><i class="icon-check"></i> Babysitting facilities</li>
+								<li><i class="icon-check"></i> 1 free bed available on request</li>
+							</ul>
+							
+						</div>
+					</div>
+					<div class="col-md-4 room-wrap animate-box">
+						<a href="images/room9.jpg" class="room image-popup-link" style="background-image: url(images/singler.jpg);"></a>
+						<div class="desc text-center">
+							<span class="rate-star"><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span>
+							<h3><a href="Reserpasi.php"> Standar Single Room</a></h3>
+							<p class="price">
+								<span class="currency">$</span>
+								<span class="price-room">149</span>
+								<span class="per">/ per night</span>
+							</p>
+							<ul>
+								<li><i class="icon-check"></i> Only 10 rooms are available</li>
+								<li><i class="icon-check"></i> Breakfast included</li>
+								<li><i class="icon-check"></i> Price does not include VAT &amp; services fee</li>
+							</ul>
+							<p><a  class="btn btn-primary btn-book" href="reser/Reser.php">Book Now!</a></p>
+						</div>
+					</div>
+					<div class="col-md-4 room-wrap animate-box">
+						<a href="images/Single1.jpg" class="room image-popup-link" style="background-image: url(images/Singler2.jpg);"></a>
+						<div class="desc text-center">
+							<span class="rate-star"><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span>
+							<h3><a href="Reserpasi.php"> Premium Single Room</a></h3>
+							<p class="price">
+								<span class="currency">$</span>
+								<span class="price-room">169</span>
+								<span class="per">/ per night</span>
+							</p>
+							<ul>
+								<li><i class="icon-check"></i> Only 10 rooms are available</li>
+								<li><i class="icon-check"></i> Breakfast included</li>
+								<li><i class="icon-check"></i> Price does not include VAT &amp; services fee</li>
+							</ul>
+							<p><a  class="btn btn-primary btn-book" href="reser/Reser.php">Book Now!</a></p>
+						</div>
+					</div>
+					<div class="col-md-4 room-wrap animate-box">
+						<a href="images/Single2.jpg" class="room image-popup-link" style="background-image: url(images/Singler4.jpg);"></a>
+						<div class="desc text-center">
+							<span class="rate-star"><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span>
+							<h3><a href="Reserpasi.php"> Deluxe Single Room</a></h3>
+							<p class="price">
+								<span class="currency">$</span>
+								<span class="price-room">189</span>
+								<span class="per">/ per night</span>
+							</p>
+							<ul>
+								<li><i class="icon-check"></i> Only 10 rooms are available</li>
+								<li><i class="icon-check"></i> Breakfast included</li>
+								<li><i class="icon-check"></i> Price does not include VAT &amp; services fee</li>
+							</ul>
+							<p><a  class="btn btn-primary btn-book" href="reser/Reser.php">Book Now!</a></p>
+						</div>
+					</div>
+
+				
+					<div class="col-md-4 room-wrap animate-box">
+						<a href="images/room-4.jpg" class="room image-popup-link" style="background-image: url(images/room-4.jpg);"></a>
+						<div class="desc text-center">
+							<span class="rate-star"><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full"></i></span>
+							<h3><a href="Reserpasi.php">Standar Double Room</a></h3>
+							<p class="price">
+								<span class="currency">$</span>
+								<span class="price-room">179</span>
+								<span class="per">/ per night</span>
+							</p>
+							<ul>
+								<li><i class="icon-check"></i> Only 10 rooms are available</li>
+								<li><i class="icon-check"></i> Breakfast included</li>
+								<li><i class="icon-check"></i> Price does not include VAT &amp; services fee</li>
+							</ul>
+							<p><a  class="btn btn-primary btn-book" href="reser/Reser.php">Book Now!</a></p>
+						</div>
+					</div>
+					
+					<div class="col-md-4 room-wrap animate-box">
+						<a href="images/room-5.jpg" class="room image-popup-link" style="background-image: url(images/room-5.jpg);"></a>
+						<div class="desc text-center">
+							<span class="rate-star"><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full"></i></span>
+							<h3><a href="Reserpasi.php">Premium Double Room</a></h3>
+							<p class="price">
+								<span class="currency">$</span>
+								<span class="price-room">270</span>
+								<span class="per">/ per night</span>
+							</p>
+							<ul>
+								<li><i class="icon-check"></i> Perfect for traveling couples</li>
+								<li><i class="icon-check"></i> Breakfast included</li>
+								<li><i class="icon-check"></i> Price does not include VAT &amp; services fee</li>
+							</ul>
+							<p><a  class="btn btn-primary btn-book" href="reser/Reser.php">Book Now!</a></p>
+						</div>
+					</div>
+					<div class="col-md-4 room-wrap animate-box">
+						<a href="images/room8.jpg" class="room image-popup-link" style="background-image: url(images/double1.jpg);"></a>
+
+					<div class="desc text-center">
+							<span class="rate-star"><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full"></i></span>
+							<h3><a href="Reserpasi.php">Deluxe Double Room</a></h3>
+							<p class="price">
+								<span class="currency">$</span>
+								<span class="price-room">290</span>
+								<span class="per">/ per night</span>
+							</p>
+							<ul>
+								<li><i class="icon-check"></i> Perfect for traveling couples</li>
+								<li><i class="icon-check"></i> Breakfast included</li>
+								<li><i class="icon-check"></i> Price does not include VAT &amp; services fee</li>
+							</ul>
+							<p><a  class="btn btn-primary btn-book" href="reser/Reser.php">Book Now!</a></p>
+						</div>
+					</div>
+					<div class="col-md-4 room-wrap animate-box">
+						<a href="images/room-6.jpg" class="room image-popup-link" style="background-image: url(images/luxehotel.jpg);"></a>
+						<div class="desc text-center">
+							<span class="rate-star"><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full"></i></span>
+							<h3><a href="Reserpasi.php">Deluxe Family Room</a></h3>
+							<p class="price">
+								<span class="currency"><small>$</small></span>
+								<span class="price-room">420</span>
+								<span class="per">/ per night</span>
+							</p>
+							<ul>
+								<li><i class="icon-check"></i> Perfect for traveling couples</li>
+								<li><i class="icon-check"></i> Breakfast included</li>
+								<li><i class="icon-check"></i> Price does not include VAT &amp; services fee</li>
+							</ul>
+							<p><a  class="btn btn-primary btn-book" href="reser/Reser.php">Book Now!</a></p>
+						</div>
+					</div>
+
+					<div class="col-md-4 room-wrap animate-box">
+						<a href="images/Family1.jpg" class="room image-popup-link" style="background-image: url(images/Familyd.jpg);"></a>
+						<div class="desc text-center">
+							<span class="rate-star"><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full"></i></span>
+							<h3><a href="Reserpasi.php">Standar Family Room</a></h3>
+							<p class="price">
+								<span class="currency"><small>$</small></span>
+								<span class="price-room">270</span>
+								<span class="per">/ per night</span>
+							</p>
+							<ul>
+								<li><i class="icon-check"></i> Perfect for traveling couples</li>
+								<li><i class="icon-check"></i> Breakfast included</li>
+								<li><i class="icon-check"></i> Price does not include VAT &amp; services fee</li>
+							</ul>
+							<p><a  class="btn btn-primary btn-book" href="reser/Reser.php">Book Now!</a></p>
+						</div>
+					</div>
+
+					<div class="col-md-4 room-wrap animate-box">
+						<a href="images/Family2.jpg" class="room image-popup-link" style="background-image: url(images/Familyd2.jpg);"></a>
+						<div class="desc text-center">
+							<span class="rate-star"><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full full"></i><i class="icon-star-full"></i></span>
+							<h3><a href="Reserpasi.php">Premium Family Room</a></h3>
+							<p class="price">
+								<span class="currency"><small>$</small></span>
+								<span class="price-room">370</span>
+								<span class="per">/ per night</span>
+							</p>
+							<ul>
+								<li><i class="icon-check"></i> Perfect for traveling couples</li>
+								<li><i class="icon-check"></i> Breakfast included</li>
+								<li><i class="icon-check"></i> Price does not include VAT &amp; services fee</li>
+							</ul>
+							<p><a class="btn btn-primary btn-book" href="reser/Reser.php">Book Now!</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+		<div id="colorlib-subscribe" style="background-image: url(images/img_bg_2.jpg);">
+			<div class="overlay"></div>
+			<div class="container">
+				<div class="row">
+					
+				</div>
+			</div>
+		</div>
+		<footer id="colorlib-footer" role="contentinfo">
+			<div class="container">
+				<div class="row row-pb-md">
+					<div class="col-md-3 colorlib-widget">
+						<h4>AFW Hotel</h4>
+						<p> A hotel that suits you who want to rest or stay, we provide facilities, with the comfort you need, your comfort is perfection for us.</p>
+					</div>
+					<div class="col-md-3 colorlib-widget">
+						<h4>Quick Links</h4>
+						<p>
+							<ul class="colorlib-footer-links">
+								<li><a href="index.php">Home</a></li>
+                				<li><a href="login.php">Login</a></li>
+                				<li><a href="daftar.php">Sign Up</a></li>
+                				<li><a href="abouthotel.html">About</a></li>
+								
+							</ul>
+						</p>
+					</div>
+
+					<div class="col-md-3 col-md-push-1">
+						<h4>Contact Information</h4>
+						<ul class="colorlib-footer-links">
+							<li><a href="tel://1234567920">+6285817035017</a></li>
+							<li><a href="#">AFW Hotel.com</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12 text-center">
+						<p>
+							<small class="block"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart3" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></small> 
+							<small class="block">Redit: <a href="#" target="_blank">AFW Official</a></small>
+						</p>
+					</div>
+				</div>
+			</div>
+		</footer>
+	</div>
+
+		<div class="gototop js-top">
+		<a href="#" class="js-gotop"><i class="icon-arrow-up2"></i></a>
+	</div>
+	
+	<!-- jQuery -->
+	<script src="js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="js/jquery.waypoints.min.js"></script>
+	<!-- Flexslider -->
+	<script src="js/jquery.flexslider-min.js"></script>
+	<!-- Owl carousel -->
+	<script src="js/owl.carousel.min.js"></script>
+	<!-- Magnific Popup -->
+	<script src="js/jquery.magnific-popup.min.js"></script>
+	<script src="js/magnific-popup-options.js"></script>
+	<!-- Date Picker -->
+	<script src="js/bootstrap-datepicker.js"></script>
+	<!-- Main -->
+	<script src="js/main.js"></script>
+
+	</body>
+</html>
